@@ -1,0 +1,22 @@
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #edf0c5;
+}
+
+.navigasi{
+    text-align: center;
+}
+
+.navigasi a{
+    background-color: #d8dbad;
+    display: inline-block;
+    width: 10%;
+    height: 100%;
+}
